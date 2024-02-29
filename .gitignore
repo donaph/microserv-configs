@@ -1,0 +1,12 @@
+########################################
+#### IDE specific rules:
+########################################
+.classpath
+.project
+.settings/
+target/*
+*.iml
+*.idea/*
+logs/*
+.mvn/*
+*/target/*
